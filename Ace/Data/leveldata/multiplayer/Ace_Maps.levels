@@ -1,0 +1,209 @@
+
+--Local_Desc - Description of this package
+--Package_Sym - Shared name for packages with the same catagory
+--Package_Desc - Description - may move to a 'package' desc file...
+
+Root = "DATA:\\LevelData\\Multiplayer\\deathmatch"
+
+ExtFilter = "levels_dm,levels_hw2,levels_dm_hw2,levels_hw1,levels_dm_hw1"
+
+--Tags - Set single tags for all levels...
+Tags = "dm,hw2,dm_hw2,hw1,dm_hw1"
+
+--TagSets - Set groups of tags for all levels (defined in Scripts/Tags/*.tags) - makes bulk editing faster...
+--TagSets = "hw2"
+
+LevelList = {
+	{
+		Tags = "4p",
+		Name = "(4p)_DemonsDen",
+		Desc = "Demons Den",
+		MaxPlayers = 4,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-Shield-Evolution V4",
+		Desc = "TFL-Shield-Evolution V4",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-SarumBadlands V2",
+		Desc = "TFL-SarumBadlands V2",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-MicroBond",
+		Desc = "TFL-MicroBond",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-FallenLords",
+		Desc = "TFL-FallenLords",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-CrimsonBond",
+		Desc = "TFL-CrimsonBond",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-CallToArms_Expert",
+		Desc = "TFL-CallToArms_Expert",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-Armed For Burial V2",
+		Desc = "TFL-Armed For Burial V2",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "TFL-Angel Wing",
+		Desc = "TFL-Angel Wing",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "cernunnos - USAvsWorld",
+		Desc = "Cernunnos - USAvsWorld",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "Cernunnos - Subversion",
+		Desc = "Cernunnos - Subversion",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "Cernunnos - Gates To Eternity",
+		Desc = "Cernunnos - Gates To Eternity",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "Cernunnos - Finger's Wrath",
+		Desc = "Cernunnos - Finger's Wrath",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "Cernunnos - Fields of Sorrow",
+		Desc = "Cernunnos - Fields of Sorrow",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "Cernunnos - Backyard Foe",
+		Desc = "Cernunnos - Backyard Foe",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "6p",
+		Name = "xenophobic",
+		Desc = "Xeno Phobic",
+		MaxPlayers = 6,
+	},
+	{
+		Tags = "8p",
+		Name = "Crucible",
+		Desc = "Crucible V3",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "8p_crimson_bond",
+		Desc = "Crimson Bond (8 Players)",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "8p_sarum",
+		Desc = "Sarum Dust Clouds (8 Players)",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "(4p)_DemonsDen_(spec)",
+		Desc = "(Spectators) Demons Den",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_6p_terah",
+		Desc = "(Spectators) Terah",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_6p_sarum",
+		Desc = "(Spectators) Sarum Dust Clouds",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_6p_imposed_cosmos",
+		Desc = "(Spectators) Imposed Cosmos",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_6p_crimson_bond",
+		Desc = "(Spectators) Crimson Bond",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_5p_silumin_training_grounds",
+		Desc = "(Spectators) Silumin Training Grounds",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_4p_rings_of_hraal",
+		Desc = "(Spectators) Rings of Hraal",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_4p_kharam_wreck",
+		Desc = "(Spectators) 4P Kharam Wreck",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_3p_dantes_requiem",
+		Desc = "(Spectators) Dante's Requiem",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_2p_shields",
+		Desc = "(Spectators) Shield",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_2p_kharam_wreck",
+		Desc = "(Spectators) 2P Kharam Wreck",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_2p_jadeth",
+		Desc = "(Spectators) Jadeth",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "specs_2p_hostilities_end",
+		Desc = "(Spectators) Hostilities End",
+		MaxPlayers = 8,
+	},
+}

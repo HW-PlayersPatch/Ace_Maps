@@ -1,0 +1,8 @@
+To install the maps, copy and paste the "Data" folder into this directory (file path may vary):
+C:\Program Files\Steam\steamapps\common\Homeworld\HomeworldRM\
+
+Then launch Homeworld Remastered. The maps will now be available to use online and offline. When you host a game on Steam with one of these maps, other players will automatically download the custom map.
+
+Maps created by P5yNerGy, Cernunnos, GUNMETAL XENO and Cloaked. Maps selected by Cloaked.
+
+Updated: 8/16/2015
