@@ -1,4 +1,4 @@
---Ace Maps for Homeworld Remastered - Version 3.0 by Cloaked
+--Ace Maps for Homeworld Remastered - Version 5.0 by Cloaked
 
 --Local_Desc - Description of this package
 --Package_Sym - Shared name for packages with the same catagory
@@ -139,6 +139,60 @@ LevelList = {
 		Tags = "8p",
 		Name = "Ace3 specs_4p_DemonsDen",
 		Desc = "Spectators 4P Demons Den",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_4p_ironcurtain",
+		Desc = "Spectators 4P Iron Curtain",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_4p_subjugateyourfriends",
+		Desc = "Spectators 4P Subjugate Your Friends",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_4p_lostfalls",
+		Desc = "Spectators 4P The Lost Falls",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_5p_radial_symmetry",
+		Desc = "Spectators 5P Radial Symmetry",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_5p_treeoflife",
+		Desc = "Spectators 5P Tree of Life",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_6p_fieldsofplaz",
+		Desc = "Spectators 6P Fields of Plaz",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_6p_hyperspacearena",
+		Desc = "Spectators 6P Hyperspace Arena",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_6p_radialsymmetry",
+		Desc = "Spectators 6P Radial Symmetry",
+		MaxPlayers = 8,
+	},
+	{
+		Tags = "8p",
+		Name = "Ace3 specs_6p_talascrossroads",
+		Desc = "Spectators 6P Talas Crossroads",
 		MaxPlayers = 8,
 	},
 	{
