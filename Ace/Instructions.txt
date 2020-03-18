@@ -1,15 +1,20 @@
-Ace Maps for Homeworld Remastered - Version 5.0
+Ace Maps for Homeworld Remastered
+Version 5.0
 
-Download:
-http://www.moddb.com/downloads/ace-maps-for-homeworld-remastered
+Forum Post: http://forums.gearboxsoftware.com/t/ace-maps-for-homeworld-remastered/162141/1
 
-Forum Post:
-http://forums.gearboxsoftware.com/t/ace-maps-for-homeworld-remastered/162141/1
 
-Install:
-After downloading the maps from the link above, copy and paste the "Data" folder into this directory (file path may vary):
+Instructions:
+1. Download from ModDB here: http://www.moddb.com/downloads/ace-maps-for-homeworld-remastered
+
+2. Unzip/extract HWR_Ace_Maps_vX.zip
+
+3. Copy the Data folder and paste it here (file path may vary):
 C:\Program Files\Steam\steamapps\common\Homeworld\HomeworldRM\
 
-Then launch Homeworld Remastered. The maps will now be available to use online and offline. When you host a game on Steam with one of these maps, other players will automatically download the custom map.
+4. If prompted, replace any existing files.
+
+5. Launch Homeworld Remastered. The maps can now be used offline and online. Only the game host needs the map pack, other players can join without it.
+
 
 Maps created by P5yNerGy, Cernunnos, GUNMETAL XENO, and Cloaked. Maps selected and updated for Homeworld Remastered by Cloaked.
